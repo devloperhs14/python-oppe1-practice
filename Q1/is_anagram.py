@@ -6,6 +6,7 @@ other word.
 '''
 
 # assumes list is given
+L = ["listen", "silent", "enlist"]
 # store 1st value in sorted manner
 ref = sorted(L[0])
 
@@ -24,14 +25,3 @@ else:
     print("False") 
 
 # home work - function
-
-
-
-
-
-
-
-
-
-
-#driver code
