@@ -1,0 +1,12 @@
+
+1. Find the loss percentage given the buying price and the selling price.
+
+2. Swap the first and last characters of a string.
+
+3. Add the first three elements to the end of the list in the same order. Modify the list inplace.
+
+4. Check if the elements at alternate positions in the tuple are equal. Assume even number of elements in the tuple.
+
+5. Check if all numbers from a list are present in a set.
+
+6. Swap the key and value for a given key in a dictionary. Modify the dictionary inplace do not return a new dictionary.
