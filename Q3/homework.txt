@@ -1,0 +1,13 @@
+1. Convert Entire code into a function named find_histogram_perimeter()
+
+2 Adopt your code to following style of inputs and output:
+
+Input format
+First line will have the number of bar graphs, say n.
+Next n lines will have space seperated values 
+
+Output format
+Perimeter of each bar graph printed over multiple lines
+
+
+Thanks
